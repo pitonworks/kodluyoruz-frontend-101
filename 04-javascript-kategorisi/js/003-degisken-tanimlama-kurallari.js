@@ -35,7 +35,7 @@ console.log(info)
 let x = 1;  // bu dogru kullanim degil :(
 // x, y, z, k, i, e, gibi anlamsiz degisken isimlerini kullanmayin!
 
-
+let y = 3;
 // ### Ek Bilgi:
 // 1: boolean tanimlarken is/has kullanimi:
 let isActive = true
