@@ -11,10 +11,11 @@ let kodluyoruz_server_info = "" // bu dogru kullanim degil :(
 let fullName = ""
 let kodluyoruzServerInfo = "" // bu dogru :)
 let kodluyoruzSERverInfo = "" // bu dogru kullanim degil :(
+let pitonFarukAnladı = ""
 
 // let firstName = "Hakan", lastName = "Yalcinkaya"
-let firstName = "Hakan"
-let lastName = "Yalcinkaya"
+let firstName = "Ömer Faruk"
+let lastName = "Güngör"
 console.log(firstName, lastName)
 
 // UPPER_CASE Kullanimi:
