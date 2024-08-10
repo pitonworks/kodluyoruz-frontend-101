@@ -1,9 +1,9 @@
 // ********** String Veri Turu Islemleri ********** 
 // https://www.w3schools.com/jsref/jsref_obj_string.asp
 
-let email = "hakanyalcinkaya@gmail.com"
-let firstName = "hakan"
-let lastName = "YALCINKAYA"
+let email = "omergnugor99@gmail.com"
+let firstName = "Ömer Faruk"
+let lastName = "Güngör"
 
 // string karakter sayisi -> length
 console.log( email.length )
