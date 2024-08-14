@@ -15,3 +15,4 @@ link.classList.add("btn")
 
 let title2 = document.getElementById('title2')
 title2.innerHTML = "Değişen bilgi"
+console.log(title2.innerHTML)
