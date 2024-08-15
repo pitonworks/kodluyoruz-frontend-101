@@ -14,3 +14,5 @@ liDOM.innerHTML = "Kendi Olusturdugumuz Oge"
 // ulDOM.append(liDOM) // en sona ekler
 ulDOM.prepend(liDOM)
 
+let lastChild = document.querySelector("ul#list>li:last-child")
+lastChild.innerHTML = "son oge degisti..."
