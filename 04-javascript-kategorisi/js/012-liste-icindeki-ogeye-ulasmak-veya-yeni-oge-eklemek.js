@@ -16,3 +16,5 @@ ulDOM.prepend(liDOM)
 
 let lastChild = document.querySelector("ul#list>li:last-child")
 lastChild.innerHTML = "son oge degisti..."
+
+// commit check bab
