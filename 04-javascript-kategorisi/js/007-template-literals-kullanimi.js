@@ -20,3 +20,5 @@ kisa isminiz: ${username[0]}.
 `
 
 console.log(info)
+
+//comment check
