@@ -1,5 +1,7 @@
 // ********** liste icerisindeki son elemana ulasmak veya eleman eklemek **********
 
+let item = document.querySelector("ul#list>li:last-child")
+
 let lastChild = document.querySelector("ul#list>li:last-child") // son öğe değiştirdi "last-child"
 lastChild.innerHTML = "son oge degisti..."
 
