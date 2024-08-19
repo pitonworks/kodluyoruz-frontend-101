@@ -1,8 +1,8 @@
 // ********** css class eklemek veya cikartmak **********
 
-let greeting = document.querySelector("#greeting")
+let greeting = document.querySelector("#greeting") // id si greeting olan elemanı seç
 
-greeting.classList.add("text-primary")
+greeting.classList.add("text-primary") // text-primary style eklendi
 greeting.classList.add("title")
 greeting.classList.add("new-info", "second-class", "third-class") // birden fazla class eklemek
 
