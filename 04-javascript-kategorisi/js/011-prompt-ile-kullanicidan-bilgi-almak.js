@@ -14,3 +14,6 @@ let = lastname = prompt("lütfen soyadınızı giriniz: ")
 
 let userName = prompt("Please enter username: ")
 console.log(userName)
+let greeting = document.querySelector("#greeting")
+
+greeting.innerHTML = `${greeting.innerHTML}<small>${fullName}</small>`
