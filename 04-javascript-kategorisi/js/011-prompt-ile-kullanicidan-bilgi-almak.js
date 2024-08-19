@@ -10,4 +10,7 @@ greeting.innerHTML = `${greeting.innerHTML} <small style="color:red">${fullName}
 let = name1 = prompt("Lütfen Adınızı Girin: ")
 let = greeting2 = document.querySelector("#greeting")
 let = lastname = prompt("lütfen soyadınızı giriniz: ")
-//// commit 456
+//// commit
+
+let userName = prompt("Please enter username: ")
+console.log(userName)
