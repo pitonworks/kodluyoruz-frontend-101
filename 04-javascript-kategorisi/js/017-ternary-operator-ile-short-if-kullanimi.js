@@ -11,3 +11,5 @@ let info = document.querySelector("#info")
 // userName.length > 0 ? userName : "Kullani Bilginiz Bulunamadi :("
 
 info.innerHTML = `${userName ? userName : "Kullani Bilginiz Bulunamadi :("}`
+
+// ternary
