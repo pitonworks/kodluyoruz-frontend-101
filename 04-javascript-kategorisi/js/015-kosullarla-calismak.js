@@ -12,3 +12,5 @@ if (username) {  // if kismi her zaman true ise calisir
     console.log("bilgi yok")
 }
 // eğer ile çalışıyoruz
+
+// else = değilse
