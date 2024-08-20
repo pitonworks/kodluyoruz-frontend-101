@@ -8,7 +8,7 @@ let user = "hakan"
 console.log("== :", price == 1 )
 console.log("== :", price == 100 )
 
-// === Hem değeri hem de türü eşitse
+// === Hem değeri hem de veri türü eşitse
 console.log("=== :", price === 1 )
 console.log("=== :", price === 100 )
 
