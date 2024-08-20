@@ -12,3 +12,4 @@ greeting.classList.remove("title", "second-class", "third-class") // birden fazl
 console.log(greeting.classList)
 
 // commit check1
+// commit check2
