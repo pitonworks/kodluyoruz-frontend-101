@@ -11,3 +11,5 @@ if (userName && age >= 18) {
 } else if ( !(age >= 18) ) {
     info.innerHTML = "Yas Bilginiz Yok veya 18 Yasindan Kucuksunuz"
 }
+
+// iç içe if 
