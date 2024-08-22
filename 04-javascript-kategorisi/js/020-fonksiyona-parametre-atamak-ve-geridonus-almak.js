@@ -52,3 +52,6 @@ function daireAlaniHesaplama(r) {// Fonksiyonumuz, r parametresini alıyor. {
 
 var donenSonuc = daireAlaniHesaplama(3); // Argüman olarak, alanını hesaplamak istediğimiz herhangi bir dairenin yarıçapı için 3 rakamı verildi. 
 console.log(donenSonuc); // 28.25999999 sonucunu göreceğiz.
+
+//********************************************************************
+
