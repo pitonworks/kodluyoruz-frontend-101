@@ -33,7 +33,35 @@ console.log(sayi1+sayi2);
 function addition(sayi1,sayi2){
     return (sayi1+sayi2);
 }
-
+// **************************************************************
 var add = addition(1,2);   //add değişkenine 1+2 değerini fonksiyon kullanarak atadık.
+
+function topla(sayi1, sayi2) {
+    return sayi1 + sayi2;
+};
+// **************************************************************
+var sonuc = topla(10,20); // 30 döner.
+
+function carp(sayi1, sayi2) {
+sayi1 * sayi2;
+};
+
+result=carp(10,20); // undefined
+
+// **************************************************************
+
+var ekle = function topla(sayi1, sayi2) {
+    return sayi1 + sayi2;
+};
+
+var sonuc1 = ekle(10,20); 
+var sonuc2 = topla(10,20); // geçersiz
+// **************************************************************
+// parantezler bize birden fazla statement yazmamızı sağlar.
+let toplam = (a, b) => {
+    let result = a + b;
+    return result;
+  };
+// **************************************************************
 
 hello() // calistir
