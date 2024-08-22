@@ -21,3 +21,5 @@ var canBuy =
     "Para miktarını girmen gerekmektedir..";
 
 console.log(canBuy) // "Satın alabilirsin.."
+
+// commit end
