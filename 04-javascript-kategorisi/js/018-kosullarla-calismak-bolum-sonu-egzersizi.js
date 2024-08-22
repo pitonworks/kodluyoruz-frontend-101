@@ -67,6 +67,4 @@ if (examGrade >= 0 && examGrade <= 100) {
 
 
 info.innerHTML = `${textInfo} -> ${examGrade}`
-
-//egzersiz sonu
-// next com
+// commit şekli
