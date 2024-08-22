@@ -1,5 +1,5 @@
 // ********** Fonksiyonlara Parametreler Atamak ve Fonksiyondan Geridonus Almak **********
-
+//parametreler
 // Temel Kurallar:
 // 1: Bir Fonksiyon Bir veya Birden Fazla Parametre Alabilir veya Hic Almayabilir
 // 2: Bir Fonksiyon Disari Bilgi Gonderebilir(return) veya Gondermeyebilir
