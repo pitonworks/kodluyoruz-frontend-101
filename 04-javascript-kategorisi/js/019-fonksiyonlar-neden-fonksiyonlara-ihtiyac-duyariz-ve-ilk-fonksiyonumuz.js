@@ -30,4 +30,10 @@ var add = function (sayi1,sayi2){  //Anonim bir fonksiyon oluşturduktan sonra b
 console.log(sayi1+sayi2);
 }
 
+function addition(sayi1,sayi2){
+    return (sayi1+sayi2);
+}
+
+var add = addition(1,2);   //add değişkenine 1+2 değerini fonksiyon kullanarak atadık.
+
 hello() // calistir
