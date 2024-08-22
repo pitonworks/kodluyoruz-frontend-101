@@ -1,5 +1,5 @@
 // ** Ilk Fonksiyonumuzu Tanimlamak:
-
+// fonksiyonlar
 function helloWorld() {
     console.log("Hello World")
 }
