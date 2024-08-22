@@ -25,4 +25,9 @@ function addition(sayi1,sayi2){  //function name and parameters
     console.log(sayi1+sayi2);     //body
 }
 
+var add = function (sayi1,sayi2){  //Anonim bir fonksiyon oluşturduktan sonra bu 
+    //fonsksiyonu bir değişkene atadık
+console.log(sayi1+sayi2);
+}
+
 hello() // calistir
