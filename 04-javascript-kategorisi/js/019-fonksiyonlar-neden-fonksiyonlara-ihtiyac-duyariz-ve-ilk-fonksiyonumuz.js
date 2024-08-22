@@ -21,5 +21,8 @@ function hello() {
 //     }
 // }
 
+function addition(sayi1,sayi2){  //function name and parameters
+    console.log(sayi1+sayi2);     //body
+}
 
 hello() // calistir
