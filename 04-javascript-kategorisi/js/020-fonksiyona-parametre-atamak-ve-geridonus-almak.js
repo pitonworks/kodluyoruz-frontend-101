@@ -38,7 +38,7 @@ domIdWriteInfo('greeting', htmlInfo)
 domIdWriteInfo('info', greetings2("Lorem", "Ipsum") )
 
 //********************************************************************
-function fonksiyonunAdi (parametre1, parametre2,...,parametreN) {
+function fonksiyonunAdi (parametre1, parametre2,...parametreN) {
     // ALINAN PARAMETRELER İLE YAPILMAK İSTENEN İŞLEMLER
     return fonksiyonunCiktisi
 }
