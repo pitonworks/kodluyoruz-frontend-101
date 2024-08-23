@@ -15,3 +15,4 @@ function clickEvent() {
     this.id == "increase" ?  counter += 1 : counter -= 1
     counterDOM.innerHTML = counter
 }
+// Functions Bolum Sonu Egzersizi
