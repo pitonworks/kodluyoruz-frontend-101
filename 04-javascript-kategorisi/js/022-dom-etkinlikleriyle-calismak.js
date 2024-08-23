@@ -10,3 +10,4 @@ function domClick() {
     this.style.color == "red" ? this.style.color = "black" : this.style.color = "red"
 }
 //com
+//com2
