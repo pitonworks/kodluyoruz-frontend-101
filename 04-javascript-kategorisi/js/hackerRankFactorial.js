@@ -6,3 +6,4 @@ function factorial(n) {
     // Recursive case: Multiply n by the factorial of (n-1)
     return n * factorial(n - 1);
 }
+//com
