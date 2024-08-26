@@ -42,7 +42,8 @@ function greet(who) {
     return `Hello, ${who}!`;
   }
    greet("John") // output : Hello, John!
-   //*****************************************************/
+
+//*****************************************************/
    // ES5
 var multiplier = function(item, multi) {
     return item * multi
@@ -52,3 +53,15 @@ multiplier(5, 2); // output : 10
 // ES6
 const multiplier = (item, multi) => item * multi;
 multiplier(5, 2); // output : 10
+
+//*****************************************************/
+//ES5
+var myList = function(param1, param2) {
+    return param1.concat(param2);
+  };
+  myList([1, 2], [3, 4, 5]); // output : [ 1, 2, 3, 4, 5 ]
+  
+  //ES6
+  const myList = (param1, param2) => param1.concat(param2);
+  myList([1, 2], [3, 4, 5]); // output : [ 1, 2, 3, 4, 5 ]
+  //*****************************************************/
