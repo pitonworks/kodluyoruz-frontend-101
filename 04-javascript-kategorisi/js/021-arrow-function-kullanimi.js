@@ -30,3 +30,16 @@ const helloFuncV4 = (firstName, lastName) => {
 helloFuncV4("helloFuncV4", "Other Info")
 
 //arrow function commit
+//*****************************************************/
+// Function declaration
+function greet(who) {
+    return `Hello, ${who}!`;
+  }
+  greet("John") // output : Hello, John!
+  
+  // Function expression
+  const greet = function(who) {
+    return `Hello, ${who}!`;
+  }
+   greet("John") // output : Hello, John!
+   //*****************************************************/
