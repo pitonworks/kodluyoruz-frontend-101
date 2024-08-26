@@ -21,3 +21,19 @@ buton.addEventListener('click' , function(){
        })
  
 // Çıktı : Buton Tıklandı
+
+
+// metot 2
+element.addEventListener(event, functionName);
+
+//id =button olan nesne seçildi
+const button = document.querySelector("#button");
+//nesneye bir etkinlik atandı.Burada ilk olarak tip ('click')
+//ikinci olarak da aşağıda fonksiyon tanımlanır ,fonksiyon ismi parametre olarak girilir. 
+button.addEventListener('click',btnClicked);
+  function btnClicked(){
+    alert("Buton Tıklandı!!!")
+    }
+
+// Çıktı : Buton Tıklandı!!!
+
