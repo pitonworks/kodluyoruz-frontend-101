@@ -16,3 +16,4 @@ function clickEvent() {
     counterDOM.innerHTML = counter
 }
 // Functions Bolum Sonu Egzersizi
+// comm1
