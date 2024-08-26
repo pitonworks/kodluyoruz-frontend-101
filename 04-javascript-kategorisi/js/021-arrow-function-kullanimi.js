@@ -28,3 +28,5 @@ const helloFuncV4 = (firstName, lastName) => {
 }
 
 helloFuncV4("helloFuncV4", "Other Info")
+
+//arrow function commit
