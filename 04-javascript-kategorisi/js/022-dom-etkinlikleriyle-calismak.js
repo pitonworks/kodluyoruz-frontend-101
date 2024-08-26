@@ -9,4 +9,4 @@ function domClick() {
     console.log("etkinlik denetlendi")
     this.style.color == "red" ? this.style.color = "black" : this.style.color = "red"
 }
-// dom etkinlikleri
+// dom etkinlikleri 1
