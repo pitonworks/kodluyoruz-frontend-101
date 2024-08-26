@@ -105,5 +105,17 @@ const seriesList = list => {
 
 //*****************************************************/
 // 2 - [1,2,3,4,5] array'ini parametre alan bir arrow fonksiyonumuz olsun. Bu array'in sonucu bize yeni bir array döndürsün. Oluşan yeni array'deki çift sayılar 2, tek sayılar ise 3 ile çarpılmış olsun. [1,2,3,4,5] => [1x3, 2x2, 3x3, 4x2, 5x3] =>Sonuç çıktımız **[3,4,9,8,15]** olacak.
+const newArray = (nums) => {
 
+    const newNums = nums.map(e=>{      
+        if(e%2==0){
+            return e*2
+        }else if(e%2==1){
+            return e*3
+        }
+    });
+   return newNums 
+}
+
+console.log(newArray([1,2,3,4,5]));  // output: [3,4,9,8,15]
 
