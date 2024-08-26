@@ -43,3 +43,12 @@ function greet(who) {
   }
    greet("John") // output : Hello, John!
    //*****************************************************/
+   // ES5
+var multiplier = function(item, multi) {
+    return item * multi
+};
+multiplier(5, 2); // output : 10
+
+// ES6
+const multiplier = (item, multi) => item * multi;
+multiplier(5, 2); // output : 10
