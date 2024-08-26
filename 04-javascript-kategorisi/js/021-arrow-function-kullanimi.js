@@ -74,3 +74,21 @@ var myList = function(param1, param2) {
     }
   }
 //*****************************************************/
+
+let movie = { 
+
+    name: "La la land",
+    
+    thisInArrow:() => { 
+    console.log("Movie name is " + this.name); // 'this' window'u referans gösterir. Bu yüzden name'yi bulamaz.
+    }, 
+    
+    thisInRegular(){ 
+    console.log("Movie name is " + this.name); // 'this' kendisini referans gösterir ve çalışır.
+    } 
+    
+    };
+    movie.thisInArrow(); // output : Movie name is
+    movie.thisInRegular(); // output : Movie name is La la land
+    
+//*****************************************************/
