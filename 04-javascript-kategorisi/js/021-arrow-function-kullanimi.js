@@ -65,3 +65,12 @@ var myList = function(param1, param2) {
   const myList = (param1, param2) => param1.concat(param2);
   myList([1, 2], [3, 4, 5]); // output : [ 1, 2, 3, 4, 5 ]
   //*****************************************************/
+// if statement arrow function
+  var feedTheCat = (cat) => {
+    if (cat === 'hungry') {
+      return 'Feed the cat';
+    } else {
+      return 'Do not feed the cat';
+    }
+  }
+//*****************************************************/
