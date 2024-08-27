@@ -23,4 +23,4 @@ function showTime(){
 showTime();
 bilgiIstek();
 
-// end comment
+// end comment1
