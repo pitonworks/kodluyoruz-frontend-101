@@ -9,3 +9,5 @@
 // console.log ile Merhaba Dunya:
 console.log("Merhaba Dunya")
 console.log("Hello World!")
+
+comsole.log("niye olmadı amk")
