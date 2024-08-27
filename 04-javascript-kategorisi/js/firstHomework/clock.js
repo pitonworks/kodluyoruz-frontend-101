@@ -22,3 +22,5 @@ function showTime(){
 
 showTime();
 bilgiIstek();
+
+// end comment
