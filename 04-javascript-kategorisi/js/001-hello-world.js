@@ -12,4 +12,4 @@ console.log("Hello World!")
 
 console.log("niye olmadı amk")
 
-//commit
+//commit1
