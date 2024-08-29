@@ -3,7 +3,7 @@
 
 
 // localStorage icerisine bilgi kaydetmek:
-let email = "hakanyalcinkaya@gmail.com"
+let email = "omergungor99@gmail.com"
 localStorage.setItem('userEmail', email) // -> anahtar, deger yapisi kullanilir(key, value)
 
 // localStorage icerisindeki bilgiyi bir degiskene atamak ve cagirmak:
