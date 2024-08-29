@@ -1,4 +1,4 @@
-// localStorage Bolum Sonu Egzersizi
+// localStorage Bolum Sonu Egzersizi ömer faruk güngör
 
 let counter = localStorage.getItem('counter') ? Number(localStorage.getItem('counter')) : 0
 let counterDOM = document.querySelector('#counter')
