@@ -15,3 +15,5 @@ function clickEvent() {
     localStorage.setItem('counter', counter)
     counterDOM.innerHTML = counter
 }
+
+// localStorage ,setItem, addEventListener, querySelector, getItem
