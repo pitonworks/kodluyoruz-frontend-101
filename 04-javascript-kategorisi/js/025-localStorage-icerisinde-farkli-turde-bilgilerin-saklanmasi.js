@@ -23,5 +23,4 @@ localStorage.setItem('user', userStatus),
 
 let userStatus1 = {userName: 'kodluyoruz', isActive: true}
 localStorage.setItem('user', JSON.stringify(userStatus1))
-//commetne1
-// commenti123
+// commetj
