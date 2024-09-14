@@ -1,6 +1,7 @@
 // FORMLARLA CALISMAK: Bolum Sonu Egzersizi1
 
 /*
+
 1: Formu Sec
 2: Input Bilgisini UL icerisine Ekle
 3: Form icindeki bilgiyi sifirla
