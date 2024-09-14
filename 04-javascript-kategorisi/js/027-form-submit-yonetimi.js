@@ -1,4 +1,4 @@
-// FORM SUBMIT:
+// FORM SUBMIT FORM:
 
 let formDOM = document.querySelector("#userForm")
 formDOM.addEventListener('submit', formSubmit)
