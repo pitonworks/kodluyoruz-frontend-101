@@ -4,7 +4,7 @@
 
 
 
-1: Formu Sec
+1: Formu Seca
 2: Input Bilgisini UL icerisine Ekle
 3: Form icindeki bilgiyi sifirla
 4: Eger forma bilgi girilmezse kullaniciyi uyar
