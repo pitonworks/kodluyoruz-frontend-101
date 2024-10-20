@@ -4,7 +4,7 @@
 
 
 aa
-1: Formu Seaaa
+1: Formu Sea
 2: Input Bilgisini UL icerisine Ekle
 3: Form icindeki bilgiyi sifirla
 4: Eger forma bilgi girilmezse kullaniciyi uyar
