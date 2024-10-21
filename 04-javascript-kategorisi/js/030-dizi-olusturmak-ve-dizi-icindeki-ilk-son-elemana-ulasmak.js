@@ -1,4 +1,4 @@
-// array - dizilerle calismak
+// array - dizilerle calismaka
 
 // Array olusturmaka
 let domain = "kodluyoruz"
