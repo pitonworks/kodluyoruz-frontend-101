@@ -1,4 +1,4 @@
-// FORMLARLA CALISMAK: Bolum Sonu Egzersizi1
+// FORMLARLA CALISMAK: Bolum Sonu Egzersizi
 
 /*
 

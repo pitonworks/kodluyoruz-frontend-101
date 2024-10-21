@@ -1,6 +1,6 @@
 // array - dizilerle calismakss
 
-// Array olusturmak
+// Array olusturmaka
 let domain = "kodluyoruz"
 let isActive = false
 let items = [15, 25, 35, isActive, domain]
