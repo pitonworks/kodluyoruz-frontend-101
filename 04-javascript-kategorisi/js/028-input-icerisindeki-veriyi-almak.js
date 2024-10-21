@@ -1,4 +1,4 @@
-// INPUT icindeki degeri(value) almaka
+// INPUT icindeki degeri(value) almak
 
 let formDOM = document.querySelector("#userForm")
 formDOM.addEventListener('submit', formSubmit)
